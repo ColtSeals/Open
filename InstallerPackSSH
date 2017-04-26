@@ -106,7 +106,7 @@ chmod +x /bin/KernelControl
 wget https://raw.githubusercontent.com/JorisBRA/jorisBra/master/DadosMonitor -O /bin/DadosMonitor
 chmod +x /bin/DadosMonitor
 
-wget https://raw.githubusercontent.com/JorisBRA/jorisBra/master/OpenVPN -O /bin/OpenVPN
+wget https://raw.githubusercontent.com/ColtSeals/Open/master/OpenVPN -O /bin/OpenVPN
 chmod +x /bin/OpenVPN
  
 wget https://raw.githubusercontent.com/JorisBRA/jorisBra/master/PackSSH -O /bin/PackSSH
