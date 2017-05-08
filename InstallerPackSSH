@@ -115,7 +115,7 @@ chmod +x /bin/PackSSH
 clear
 
 
-
+cp /bin/PackSSH /bin/packssh
 
 tput setaf 8 ; tput setab 5 ; tput bold ; printf '%30s%s%-15s\n' "PackSSH" ; tput sgr0
 echo ""
