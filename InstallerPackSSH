@@ -152,33 +152,33 @@ echo""
 read -p " Selecione a opção [01-21]: " opcao
 
 case $opcao in
- 01)
+ 1 | 01 )
   ConfVPS
   sleep 4
   PackSSH;;
- 02)
+2 | 02 )
   UserCreate
   sleep 5
   PackSSH;;
- 03)
+3 | 03 )
   UserBackup
   sleep 5
   PackSSH;;
- 04)
+4 | 04 )
   CpuMonitor;;
- 05)
+5 | 05 )
   UserMonitor;;
- 06)
+6 | 06 )
   DadosMonitor;;
- 07)
+7 | 07 )
   VNC
   sleep 8
   PackSSH;;
- 08)
+8 | 08 )
   ClearCache
   sleep 4
   PackSSH;;
- 09)
+9 | 09 )
   OpenUDP;;
  10)
   SpeedTest
