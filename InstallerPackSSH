@@ -115,9 +115,9 @@ chmod +x /bin/PackSSH
 clear
 
 
-cp /bin/PackSSH /bin/packssh
+cp /bin/PackSSH /bin/nerd
 
-tput setaf 8 ; tput setab 5 ; tput bold ; printf '%30s%s%-15s\n' "PackSSH" ; tput sgr0
+tput setaf 8 ; tput setab 5 ; tput bold ; printf '%30s%s%-15s\n' "ColtSeals" ; tput sgr0
 echo ""
 echo -e "\033[1;30m•••••> Script Edited ColtSeals TecnologY (NERD's)\033[0m"
 echo -e "\033[1;30m•••••> A Internet aproxima quem está longe e afasta quem está perto!\033[0m"
@@ -125,7 +125,7 @@ echo -e "\033[1;30m•••••> TELEGRAM CANAL: @VpsNerdologia\033[0m"
 echo -e "\033[1;30m•••••> TELEGRAM CANAL: @ColtChannel\033[0m"
 echo -e "\033[1;30m•••••> TELEGRAM GRUPO: @NerdologiaVps\033[0m"
 echo -e "\033[1;30m----------------------------------------------------------------------\033[0m"
-echo -e OBS:    Digite - PackSSH - para acessar esse PACK
+echo -e OBS:    Digite - nerd - para acessar esse Script
 echo -e "|01|\033[01;34m•====> ConfVPS (CONFIGURA A VPS|SQUID3|) \033[01;34m"
 echo -e "|02|\033[01;31m•====> UserCreate (Criar Usuarios SSH)\033[0m"
 echo -e "|03|\033[01;31m•====> UserBackup (Gerencia Backup dos Usuarios SSH)\033[0m"
