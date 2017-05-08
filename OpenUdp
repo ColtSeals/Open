@@ -6,7 +6,7 @@ echo "na porta 7300, usado por programas como HTTP Injector da Evozi."
 echo "Permitindo assim a utilização do protocolo UDP para jogos online,"
 echo "chamadas VoIP e outras coisas interessantes."
 echo "" ; tput sgr0
-read -p "Deseja continuar? [s/n]: " -e -i n resposta
+read -p "Deseja continuar? [s/n]: " -e -i s resposta
 if [[ "$resposta" = 's' ]]; then
 	echo ""
 	echo "Aguarde a instalação... "
