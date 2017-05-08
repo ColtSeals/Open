@@ -122,4 +122,5 @@ case $opcao in
   MonitorTotal.sh
   sleep 20
   PackSSH;;
+  cp /bin/PackSSH /bin/packssh
 esac
