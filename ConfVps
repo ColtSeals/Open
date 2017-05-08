@@ -23,6 +23,11 @@ echo -e "\033[1;31mPara a instalação ser correta é preciso o ip.
 Digite o ip !\033[0m"
 read -p ": " ip
 clear
+echo -e "\033[1;31m•••••> \033[01;37mScript Edited ••ColtSeals TecnologY•• \033[0m"
+echo -e "\033[1;32m•••••> A Internet aproxima quem está longe e afasta quem está perto!"
+echo -e "\033[1;32m•••••> TELEGRAM GRUPO: @NerdologiaVps"
+echo -e "\033[1;32m•••••> TELEGRAM CANAL: @VpsNerdologia"
+echo -e "\033[1;32m•••••> Digite grupoconf e pegue o LINK do GRUPO do Telegram"
 
 echo -e "\033[1;31m-----> \033[01;37mSeu sistema operacional:\033[1;31m $(cat /etc/so)"
 echo -e "\033[1;31m-----> \033[01;37mSeu ip:\033[1;31m $ip"
@@ -117,7 +122,7 @@ os hosts ficam no arquivo /etc/payloads\033[0m"
 payloads
 service squid restart 1> /dev/null 2> /dev/null
 
-echo -e "\033[01;31mTudo terminado crie um usuario e teste !!\033[0m"
+echo -e "\033[01;31mTudo terminado !!\033[0m"
 exit 0
 fi
 
@@ -151,7 +156,7 @@ addhost
 
 echo -e "\033[1;37mPara adicionar novos hosts ao squid execute o comando addhost
 os hosts ficam no arquivo /etc/payloads\033[0m"
-echo -e "\033[01;31mTudo terminado crie um usuario e teste !! \033[0m"
+echo -e "\033[01;31mTudo terminado !! \033[0m"
 exit 0
 fi
 
@@ -185,7 +190,7 @@ addhost
 
 echo -e "\033[1;37mPara adicionar novos hosts ao squid execute o comando addhost
 os hosts ficam no arquivo /etc/payloads\033[0m"
-echo -e "\033[01;31mTudo terminado crie um usuario e teste !! \033[0m"
+echo -e "\033[01;31mTudo terminado !! \033[0m"
 exit
 fi
 
@@ -219,7 +224,7 @@ addhost
 
 echo -e "\033[1;37mPara adicionar novos hosts ao squid execute o comando addhost
 os hosts ficam no arquivo /etc/payloads\033[0m"
-echo -e "\033[01;31mTudo terminado crie um usuario e teste !! \033[0m"
+echo -e "\033[01;31mTudo terminado !! \033[0m"
 exit 0
 fi
 
@@ -255,7 +260,7 @@ addhost
 
 echo -e "\033[1;37mPara adicionar novos hosts ao squid execute o comando addhost
 os hosts ficam no arquivo /etc/payloads\033[0m"
-echo -e "\033[01;31mTudo terminado crie um usuario e teste !! \033[0m"
+echo -e "\033[01;31mTudo terminado !! \033[0m"
 exit
 fi
 
@@ -291,4 +296,4 @@ service squid3 restart > /dev/null 2> /dev/null
 addhost
 echo -e "\033[1;37mPara adicionar novos hosts ao squid execute o comando addhost
 os hosts ficam no arquivo /etc/payloads\033[0m"
-echo -e "\033[01;31mTudo terminado crie um usuario e teste !! \033[0m"
+echo -e "\033[01;31mTudo terminado !! \033[0m"
