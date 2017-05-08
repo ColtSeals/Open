@@ -114,7 +114,13 @@ chmod +x /bin/PackSSH
 
 clear
 
-
+cp /bin/SpeedTest /bin/SpeedTest
+cp /bin/UserDel /bin/deletar
+cp /bin/MudarValidade /bin/mudar
+cp /bin/MudarSenha /bin/senha
+cp /bin/Banner /bin/banner
+cp /bin/UserMonitor /bin/monitor
+cp /bin/OpenVPN /bin/open
 cp /bin/PackSSH /bin/MenuVPS
 cp /bin/PackSSH /bin/vps
 
