@@ -21,7 +21,7 @@ branco="\033[1;37m"
 
 tput setaf 8 ; tput setab 5 ; tput bold ; printf '%30s%s%-15s\n' "ColtSeals" ; tput sgr0
 echo ""
-echo -e OBS:    Digite - nerd - para acessar esse Script
+echo -e OBS:    Digite - MenuVPS - para acessar esse Script
 echo -e "|01|\033[01;34m•====> ConfVPS (CONFIGURA A VPS|SQUID3|) \033[01;34m"
 echo -e "|02|\033[01;31m•====> UserCreate (Criar Usuarios SSH)\033[0m"
 echo -e "|03|\033[01;31m•====> UserBackup (Gerencia Backup dos Usuarios SSH)\033[0m"
