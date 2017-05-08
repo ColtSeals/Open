@@ -20,7 +20,7 @@ branco="\033[1;37m"
 
 echo -e "\033[1;30m•••••> Script Edited ColtSeals TecnologY (NERD's)\033[0m"
 echo -e "\033[1;34m•••••> Script Edited ••ColtSeals TecnologY••\033[0m"
-echo -e "\033[1;34m•••••> A Internet aproxima quem está longe e afasta quem está perto!"\033[0m" 
+echo -e "\033[1;30m•••••> A Internet aproxima quem está longe e afasta quem está perto!\033[0m"
 echo -e "\033[1;34m•••••> TELEGRAM CANAL: @VpsNerdologia\033[0m" 
 echo -e "\033[1;34m•••••> TELEGRAM CANAL: @ColtChannel\033[0m" 
 echo -e "\033[1;34m•••••> TELEGRAM GRUPO: @NerdologiaVps"\033[0m"
