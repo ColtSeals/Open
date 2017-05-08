@@ -14,7 +14,12 @@ printf "${cyan}
 #+#   #+#+# #+#        #+#    #+# #+#    #+# 
 ###    #### ########## ###    ### #########       
          
-${red}@ColtSeals TELEGRAM                                   
+${red}•••••>@ColtSeals TELEGRAM 
+•••••> Script Edited ColtSeals TecnologY (NERD's)
+•••••> A Internet aproxima quem está longe e afasta quem está perto!
+•••••> TELEGRAM CANAL: @VpsNerdologia
+•••••> TELEGRAM CANAL: @ColtChannel
+•••••> TELEGRAM GRUPO: @NerdologiaVps
                             
 "
 }
