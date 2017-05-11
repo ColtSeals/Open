@@ -38,8 +38,7 @@ apt-get install htop
 sudo apt-get install screenfetch -y
 rm .bashrc
 rm screenfetch-dev
-wget https://raw.githubusercontent.com/ColtSeals/Open/master/.bashrc
-wget https://raw.githubusercontent.com/KittyKatt/screenFetch/master/screenfetch-dev
+ 
 clear
 apt-get install python-pip -y
 pip install speedtest-cli
